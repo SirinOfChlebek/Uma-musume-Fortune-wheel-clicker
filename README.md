@@ -4,7 +4,7 @@
 # Instruction
 ## Requires python
 1. Clone the repo. ```git clone https://github.com/SirinOfChlebek/Uma-musume-Fortune-wheel-clicker```
-2. Install requirements ```pip install requirements.txt```
+2. Install requirements ```pip install -r  \path\to\requirements.txt```
 3. Run the script ```python main.py```
 4. Go into Uma Musume and open the spinning wheel event.
 5. Press F6 and watch the magic happen :D
